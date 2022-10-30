@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 
 ![Header](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/header/IMG.png)
 
-<!--## About me
+## Good day to everyone.
 
---Languages and tools
+My name is Maria and I am a beginner QA Engineer. I am currently an Intern as a QA Engineer and continue to learn and improve my knowledge.
+
+<!--Languages and tools
 
 Follow me
 
