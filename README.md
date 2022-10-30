@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Header](https://github.com/mari-bratkouskaya/mari-bratkouskaya/commit/7e41503b29e9b182d8145c94b22dc66f9798fbd2)
+![Header](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/header/IMG.png)
 
 <!--## About me
 
