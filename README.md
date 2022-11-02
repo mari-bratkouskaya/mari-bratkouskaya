@@ -25,7 +25,5 @@ Here are some ideas to get you started:
 
 ### Socials:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-9dcd77?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/mari_bratkouskaya)
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-9dcd77?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/mari-bratkouskaya/)
+[![Telegram](https://img.shields.io/badge/-Telegram-9dcd77?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/mari_bratkouskaya) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-9dcd77?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/mari-bratkouskaya/)
 
