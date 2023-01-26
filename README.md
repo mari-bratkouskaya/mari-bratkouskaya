@@ -7,6 +7,12 @@
 ### ___Technologies & Tools:___
 ---
 [![Git](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Git.jpg)](https://github.com/mari-bratkouskaya/Terminal-GIT)
+![Visual Studio Code](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/VSC.jpg)
+[![Dev Tools](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Devtools.jpg)](ссылка на репозиторий)
+[![Webservices](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Webservice.jpg)](https://github.com/mari-bratkouskaya/Webservices)
+[![название тула](путь к картинке)](ссылка на репозиторий)
+[![название тула](путь к картинке)](ссылка на репозиторий)
+[![название тула](путь к картинке)](ссылка на репозиторий)
 <!--[![название тула](путь к картинке)](ссылка на репозиторий) 
 [![название тула](путь к картинке)](ссылка на репозиторий) -->
 
