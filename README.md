@@ -8,14 +8,19 @@
 ---
 [![Git](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Git.jpg)](https://github.com/mari-bratkouskaya/Terminal-GIT)
 ![Visual Studio Code](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/VSC.jpg)
-[![Dev Tools](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Devtools.jpg)](ссылка на репозиторий)
+[![Dev Tools](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Devtools.jpg)](https://github.com/mari-bratkouskaya/DevTools)
 [![Webservices](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Webservice.jpg)](https://github.com/mari-bratkouskaya/Webservices)
-[![название тула](путь к картинке)](ссылка на репозиторий)
-[![название тула](путь к картинке)](ссылка на репозиторий)
-[![название тула](путь к картинке)](ссылка на репозиторий)
+[![Postman](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Postman.jpg)](https://github.com/mari-bratkouskaya/Postman)
+[![SQL](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/SQL.jpg)](https://github.com/mari-bratkouskaya/SQL)
+[![Python](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Python.jpg)](https://github.com/mari-bratkouskaya/Python)
+[![Java Script](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/JS.jpg)](https://github.com/mari-bratkouskaya/Java-Script) 
+[![Markdown](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Markdown.jpg)](https://github.com/mari-bratkouskaya/mari-bratkouskaya)
+[![Jmeter](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Jmeter.jpg)](https://github.com/mari-bratkouskaya/JMeter) 
+[![Android Studio](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Android%20Studio.jpg)](ссылка на репозиторий)
+[![Charles](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/charles.jpg)](https://github.com/mari-bratkouskaya/Charles) 
 <!--[![название тула](путь к картинке)](ссылка на репозиторий) 
 [![название тула](путь к картинке)](ссылка на репозиторий) -->
-
+\* Pictures are clickable
 
 ### ___Soft skills:___
 ---
@@ -29,13 +34,17 @@
 
 :white_check_mark: Communication
 
-:white_check_mark: Organizational
-
 :white_check_mark: Openness to criticism
 
 :white_check_mark: Resourcefulness
 
+### ___Certificates:___
+---
+:open_file_folder: [Software testing: Postman for API testing](https://stepik.org/cert/1788419)
 
+:open_file_folder: [Interactive SQL Simulator](https://stepik.org/cert/1758649)
+
+:open_file_folder: [Python Generation: A Course for Beginners](https://stepik.org/cert/1897589)
 ### ___Socials:___
 ---
 
