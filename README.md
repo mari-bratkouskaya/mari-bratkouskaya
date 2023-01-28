@@ -16,7 +16,7 @@
 [![Java Script](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/JS.jpg)](https://github.com/mari-bratkouskaya/Java-Script) 
 [![Markdown](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Markdown.jpg)](https://github.com/mari-bratkouskaya/mari-bratkouskaya)
 [![Jmeter](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Jmeter.jpg)](https://github.com/mari-bratkouskaya/JMeter) 
-[![Android Studio](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Android%20Studio.jpg)](ссылка на репозиторий)
+[![Android Studio](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Android%20Studio.jpg)](https://github.com/mari-bratkouskaya/Android-Studio)
 [![Charles](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/charles.jpg)](https://github.com/mari-bratkouskaya/Charles) 
 <!--[![название тула](путь к картинке)](ссылка на репозиторий) 
 [![название тула](путь к картинке)](ссылка на репозиторий) -->
