@@ -7,7 +7,6 @@
 ### ___Technologies & Tools:___
 ---
 [![Git](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Git.jpg)](https://github.com/mari-bratkouskaya/Terminal-GIT)
-![Visual Studio Code](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/VSC.jpg)
 [![Dev Tools](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Devtools.jpg)](https://github.com/mari-bratkouskaya/DevTools)
 [![Webservices](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Webservice.jpg)](https://github.com/mari-bratkouskaya/Webservices)
 [![Postman](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Postman.jpg)](https://github.com/mari-bratkouskaya/Postman)
@@ -18,6 +17,7 @@
 [![Jmeter](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Jmeter.jpg)](https://github.com/mari-bratkouskaya/JMeter) 
 [![Android Studio](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Android%20Studio.jpg)](https://github.com/mari-bratkouskaya/Android-Studio)
 [![Charles](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/charles.jpg)](https://github.com/mari-bratkouskaya/Charles) 
+![Visual Studio Code](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/VSC.jpg)
 <!--[![название тула](путь к картинке)](ссылка на репозиторий) 
 [![название тула](путь к картинке)](ссылка на репозиторий) -->
 \* Pictures are clickable
