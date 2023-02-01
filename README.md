@@ -22,6 +22,10 @@
 [![название тула](путь к картинке)](ссылка на репозиторий) -->
 \* Pictures are clickable
 
+### ___Test cases and bug reports:___
+---
+You can see examples of the work I have done by following this [link](https://drive.google.com/drive/folders/19g-qAbLgrDJDzBJThh2YFXBgeesNfNs3?usp=share_link)
+
 ### ___Soft skills:___
 ---
 :white_check_mark: Teamwork
