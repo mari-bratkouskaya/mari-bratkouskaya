@@ -3,6 +3,7 @@
 ### ___About me:___
 ---
  #### My name is Maria and I absolutely adore everything I do! I love debugging code and I excel at what I do. I have always had a knack for taking on challenges without knowing what I was doing and excelling at them, and I apply this same passion to my QA testing endeavors. I have been working as an intern and have consistently been promoted to more core and critical projects as I have demonstrated my skills. I'm on my way to my goal, and I get the best quality when working on anything I take on!
+<br/>
 
 ### ___Technologies & Tools:___
 ---
@@ -22,9 +23,13 @@
 [![название тула](путь к картинке)](ссылка на репозиторий) -->
 \* Pictures are clickable
 
+<br/>
+
 ### ___Test cases and bug reports:___
 ---
-You can see examples of the work I have done by following this [link](https://drive.google.com/drive/folders/19g-qAbLgrDJDzBJThh2YFXBgeesNfNs3?usp=share_link)
+ You can see examples of the work I have done by following this [link](https://drive.google.com/drive/folders/19g-qAbLgrDJDzBJThh2YFXBgeesNfNs3?usp=share_link)
+
+<br/>
 
 ### ___Soft skills:___
 ---
@@ -41,6 +46,8 @@ You can see examples of the work I have done by following this [link](https://dr
 :white_check_mark: Openness to criticism
 
 :white_check_mark: Resourcefulness
+
+<br/>
 
 ### ___Certificates:___
 ---
