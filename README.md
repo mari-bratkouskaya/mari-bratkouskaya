@@ -11,16 +11,22 @@
 [![Dev Tools](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Devtools.jpg)](https://github.com/mari-bratkouskaya/DevTools)
 [![Webservices](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Webservice.jpg)](https://github.com/mari-bratkouskaya/Webservices)
 [![Postman](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Postman.jpg)](https://github.com/mari-bratkouskaya/Postman)
-[![SQL](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/SQL.jpg)](https://github.com/mari-bratkouskaya/SQL)
-[![Python](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Python.jpg)](https://github.com/mari-bratkouskaya/Python)
-[![Java Script](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/JS.jpg)](https://github.com/mari-bratkouskaya/Java-Script) 
-[![Markdown](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Markdown.jpg)](https://github.com/mari-bratkouskaya/mari-bratkouskaya)
 [![Jmeter](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Jmeter.jpg)](https://github.com/mari-bratkouskaya/JMeter) 
 [![Android Studio](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Android%20Studio.jpg)](https://github.com/mari-bratkouskaya/Android-Studio)
 [![Charles](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/charles.jpg)](https://github.com/mari-bratkouskaya/Charles) 
-![Visual Studio Code](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/VSC.jpg)
-<!--[![название тула](путь к картинке)](ссылка на репозиторий) 
-[![название тула](путь к картинке)](ссылка на репозиторий) -->
+![Visual Studio Code](https://github.com/mari-bratkouskayamari-bratkouskaya/blob/main/tech_tools/VSC.jpg)
+<br/>
+\* Pictures are clickable
+<br/>
+
+### ___Languages:___
+---
+[![HTML & CSS]()]()
+[![Java Script](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/JS.jpg)](https://github.com/mari-bratkouskaya/Java-Script) 
+[![Markdown](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Markdown.jpg)](https://github.com/mari-bratkouskaya/mari-bratkouskaya)
+[![SQL](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/SQL.jpg)](https://github.com/mari-bratkouskaya/SQL)
+[![Python](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Python.jpg)](https://github.com/mari-bratkouskaya/Python)
+<br/>
 \* Pictures are clickable
 
 <br/>
