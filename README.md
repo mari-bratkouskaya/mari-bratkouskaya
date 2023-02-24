@@ -17,11 +17,12 @@
 ![Visual Studio Code](https://github.com/mari-bratkouskayamari-bratkouskaya/blob/main/tech_tools/VSC.jpg)
 <br/>
 \* Pictures are clickable
+
 <br/>
 
 ### ___Languages:___
 ---
-[![HTML & CSS]()]()
+[![HTML & CSS](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/HTML%26CSS.jpg)](https://mari-bratkouskaya.github.io/)
 [![Java Script](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/JS.jpg)](https://github.com/mari-bratkouskaya/Java-Script) 
 [![Markdown](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Markdown.jpg)](https://github.com/mari-bratkouskaya/mari-bratkouskaya)
 [![SQL](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/SQL.jpg)](https://github.com/mari-bratkouskaya/SQL)
