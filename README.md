@@ -14,7 +14,7 @@
 [![Jmeter](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Jmeter.jpg)](https://github.com/mari-bratkouskaya/JMeter) 
 [![Android Studio](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/Android%20Studio.jpg)](https://github.com/mari-bratkouskaya/Android-Studio)
 [![Charles](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/charles.jpg)](https://github.com/mari-bratkouskaya/Charles) 
-[![Visual Studio Code](https://github.com/mari-bratkouskayamari-bratkouskaya/blob/main/tech_tools/VSC.jpg)](https://github.com/mari-bratkouskaya)
+[![Visual Studio Code](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/tech_tools/VSC.jpg)](https://github.com/mari-bratkouskaya)
 <br/>
 \* Pictures are clickable
 
