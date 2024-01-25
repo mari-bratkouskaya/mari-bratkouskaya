@@ -2,7 +2,7 @@
 
 ### ___About me:___
 ---
- #### My name is Maria and I absolutely adore everything I do! I love debugging code and I excel at what I do. I have always had a knack for taking on challenges without knowing what I was doing and excelling at them, and I apply this same passion to my QA testing endeavors. I have been working as an intern and have consistently been promoted to more core and critical projects as I have demonstrated my skills. I'm on my way to my goal, and I get the best quality when working on anything I take on!
+ #### My name is Maria, and I just love everything I do! I love debugging code, and I excel at what I do. I've always been able to take on challenging tasks without knowing what I'm doing and succeed, and I apply that same passion to my QA testing work. I've been a tester since October 2022, and as I've demonstrated my skills, I've been steadily promoted to more important and responsible projects. I love what I do and strive for the best quality when working on everything I take on!
 <br/>
 
 ### ___Technologies & Tools:___
@@ -58,6 +58,8 @@
 
 ### ___Certificates:___
 ---
+:open_file_folder: [ISTQB Certified Tester Foundation Level](https://github.com/mari-bratkouskaya/Certificates/blob/main/ISTQB.pdf)
+
 :open_file_folder: [Software testing: Postman for API testing](https://stepik.org/cert/1788419)
 
 :open_file_folder: [Interactive SQL Simulator](https://stepik.org/cert/1758649)
