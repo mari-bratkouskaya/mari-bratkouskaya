@@ -1,4 +1,4 @@
-![Header](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/header/IMG.png)
+![Header](https://github.com/mari-bratkouskaya/mari-bratkouskaya/blob/main/header/image.png)
 
 ### ___About me:___
 ---
