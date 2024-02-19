@@ -38,6 +38,18 @@
 
 <br/>
 
+### ___Certificates:___
+---
+:open_file_folder: [ISTQB Certified Tester Foundation Level](https://github.com/mari-bratkouskaya/Certificates/blob/main/ISTQB.pdf)
+
+:open_file_folder: [Software testing: Postman for API testing](https://stepik.org/cert/1788419)
+
+:open_file_folder: [Interactive SQL Simulator](https://stepik.org/cert/1758649)
+
+:open_file_folder: [Python Generation: A Course for Beginners](https://stepik.org/cert/1897589)
+
+<br/>
+
 ### ___Soft skills:___
 ---
 :white_check_mark: Teamwork
@@ -54,20 +66,9 @@
 
 :white_check_mark: Resourcefulness
 
-<br/>
 
-### ___Certificates:___
----
-:open_file_folder: [ISTQB Certified Tester Foundation Level](https://github.com/mari-bratkouskaya/Certificates/blob/main/ISTQB.pdf)
-
-:open_file_folder: [Software testing: Postman for API testing](https://stepik.org/cert/1788419)
-
-:open_file_folder: [Interactive SQL Simulator](https://stepik.org/cert/1758649)
-
-:open_file_folder: [Python Generation: A Course for Beginners](https://stepik.org/cert/1897589)
 ### ___Socials:___
 ---
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-9dcd77?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/mari-bratkouskaya/) 
 [![Telegram](https://img.shields.io/badge/-Telegram-9dcd77?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/mari_bratkouskaya) 
-<!--[![Stepik](https://yt3.googleusercontent.com/ytc/AMLnZu8a9GmmqiZxU-NZvnhPTOMs4yKItRfrl_Of50ptpw=s900-c-k-c0x00ffffff-no-rj)](https://stepik.org/users/551159152?auth=login) -->
