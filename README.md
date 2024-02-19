@@ -42,11 +42,11 @@
 ---
 :open_file_folder: [ISTQB Certified Tester Foundation Level](https://github.com/mari-bratkouskaya/Certificates/blob/main/ISTQB.pdf)
 
-:open_file_folder: [Software testing: Postman for API testing](https://stepik.org/cert/1788419)
+:open_file_folder: [Software Testing: Postman for API testing](https://stepik.org/cert/1788419?lang=en)
 
-:open_file_folder: [Interactive SQL Simulator](https://stepik.org/cert/1758649)
+:open_file_folder: [Interactive SQL Simulator](https://stepik.org/cert/1758649?lang=en)
 
-:open_file_folder: [Python Generation: A Course for Beginners](https://stepik.org/cert/1897589)
+:open_file_folder: ["Python Generation": course for beginners](https://stepik.org/cert/1897589?lang=en)
 
 <br/>
 
