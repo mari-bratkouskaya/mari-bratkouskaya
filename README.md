@@ -2,7 +2,7 @@
 
 ### ___About me:___
 ---
- #### My name is Maria, and I just love everything I do! I love debugging code, and I excel at what I do. I've always been able to take on challenging tasks without knowing what I'm doing and succeed, and I apply that same passion to my QA testing work. I've been a tester since October 2022, and as I've demonstrated my skills, I've been steadily promoted to more important and responsible projects. I love what I do and strive for the best quality when working on everything I take on!
+ #### My name is Maria, and I just love everything I do! I love testing, and I excel at what I do. I've always been able to take on challenging tasks without knowing what I'm doing and succeed, and I apply that same passion to my QA testing work. I've been a tester since October 2022, and as I've demonstrated my skills, I've been steadily promoted to more important and responsible projects. I love what I do and strive for the best quality when working on everything I take on!
 <br/>
 
 ### ___Technologies & Tools:___
